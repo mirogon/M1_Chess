@@ -1,0 +1,13 @@
+﻿  Game.cpp
+e:\programming\c++\libraries\m1\m1random\include\m1random.h(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programming\c++\projects\m1_chess\m1_chess\object.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_chess\m1_chess\object.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_chess\m1_chess\game.h(64): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.h(79): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.cpp(33): warning C4018: '>': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.cpp(52): warning C4018: '>=': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.cpp(52): warning C4018: '<=': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.cpp(71): warning C4018: '>': signed/unsigned mismatch
+e:\programming\c++\projects\m1_chess\m1_chess\game.cpp(123): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  M1_Chess.vcxproj -> E:\Programming\C++\Projects\M1_Chess\Debug\M1_Chess.exe
